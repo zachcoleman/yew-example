@@ -7,4 +7,4 @@ App -> Grid -> Cell
 
 Trying to adhere to best practices: the information from parent to child components flow through `props` and `callbacks` send messages from children to parent components. 
 
-https://user-images.githubusercontent.com/42484306/183918198-43105163-2e2d-46eb-91b9-426a42c18faa.mov
+https://user-images.githubusercontent.com/42484306/183918788-bb0b85dd-4d33-48dc-bfec-834152b62de6.mov
